@@ -37,6 +37,7 @@ The system works with two primary data files:
 
 **Example Data:**
 ```
+
 Startup 1 | Industry: FinTech | Stage: Seed | Funding: $500K | Model: B2B SaaS
 Investor 1 | Prefers: FinTech | Range: $100K-$500K | Stage: Seed
 ```
@@ -52,6 +53,8 @@ Create a configuration file named `config.py` with your API key:
 ```python
 GEMINI_API_KEY = "your_gemini_api_key_here"
 ```
+
+
 
 ### 3️⃣ Run the Matching Engine
 ```python
@@ -72,6 +75,15 @@ matcher.display_matches(matches)
 # Generate visualization
 matcher.visualize_compatibility(matches)
 ```
+Output Examples 📊
+Below are examples of the system's output formats:
+![screenshot_2](https://github.com/user-attachments/assets/29671449-09aa-4194-ba6a-eebc0084a5ea)
+
+
+Web Interface
+![screenshot_1](https://github.com/user-attachments/assets/bc1211fc-3cbf-4bee-a405-f215331738a4)
+
+
 
 ## Sample Output 📋
 ```
