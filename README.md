@@ -1,7 +1,7 @@
-# InvestMatch AI: Startup-Investor Compatibility Engine 🚀
+# Startup-Investor Compatibility Engine 🚀
 
 ## Overview
-InvestMatch AI is an artificial intelligence platform that analyzes compatibility between startups and potential investors. The system leverages advanced language models through **Google's Gemini API** to calculate a comprehensive **match score** based on multiple compatibility factors, helping founders connect with the most suitable investors for their ventures.
+Startup-Investor Compatibility Engine is an artificial intelligence platform that analyzes compatibility between startups and potential investors. The system leverages advanced language models through **Google's Gemini API** to calculate a comprehensive **match score** based on multiple compatibility factors, helping founders connect with the most suitable investors for their ventures.
 
 ## Features ✨
 - **AI-Powered Matching**: Utilizes LLM capabilities to provide nuanced compatibility analysis
